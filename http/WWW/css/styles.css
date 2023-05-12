@@ -75,19 +75,3 @@ body{
 hr{
     border-color: rgb(121, 206, 255);
 }
-.audioFeo{
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-}
-
-audio{
-    position: relative;
-    background: transparent;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #777;
-    cursor: pointer;
-    padding-bottom: 20px;
-}

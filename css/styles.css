@@ -27,9 +27,9 @@ p {
 #barraprincipal{
     width: 80%; 
     margin: 0 auto; 
-    background-color:rgb(225, 227, 210);
+    background-color:rgb(255, 255, 128);
     color: black; 
-    padding: 20px;
+    padding: 50px;
     display: flex;
     justify-content: space-between; 
     align-items: center;
@@ -48,7 +48,7 @@ body{
 }
 
 #textobarraprincipal{
-    text-align: center;
+    text-align: left;
     font-family: "Roboto", sans-serif;
 }
 .image-container {
